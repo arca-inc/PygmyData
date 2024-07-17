@@ -1,0 +1,15 @@
+{
+	"panel" : {
+		"name": "Pygmy Panel",
+    "version": "1.0.0",
+    "changelog_url": "https://link.not.set/changelog",
+    "release_notes_url": "https://link.not.set/release-notes",
+    "discord_url": "https://discord.gg/dKAd8dmgvh",
+    "release_date": "2024-07-17-16:40"
+  },
+  "wings" : {
+    "name": "Pygmy Wings",
+    "version": "1.0.0",
+    "release_date": "2024-07-17-16:40"
+  }
+}
