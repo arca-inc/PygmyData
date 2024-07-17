@@ -1,10 +1,12 @@
 {
-	"panel" : {
-		"name": "Pygmy Panel",
+  "panel" : {
+    "name": "Pygmy Panel",
     "version": "1.0.0",
     "changelog_url": "https://link.not.set/changelog",
     "release_notes_url": "https://link.not.set/release-notes",
     "discord_url": "https://discord.gg/dKAd8dmgvh",
+    "release_tag": "snapshot",
+    "release_editor": "Warmadon",
     "release_date": "2024-07-17-16:40"
   },
   "wings" : {
