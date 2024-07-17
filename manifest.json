@@ -1,4 +1,11 @@
 {
+  "global" : {
+    "website" : "https://link.not.set/",
+    "cgu" : "https://link.not.set/cgu",
+    "cgv" : "https://link.not.set/cgv",
+    "conditions" : "https://link.not.set/conditions",
+    "privacy" : "https://link.not.set/privacy"
+  },
   "panel" : {
     "name": "Pygmy Panel",
     "version": "1.0.0",
